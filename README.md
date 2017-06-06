@@ -1,2 +1,2 @@
 # hello-world
-just getting started
+I'm Wenzel, you can find me on twitter etc. using @wmassag.
