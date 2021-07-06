@@ -1,2 +1,2 @@
 # hello-world
-I'm Wenzel, you can find me on twitter etc. using @wmassag.
+I'm Wenzel, you can find me on twitter etc. using @stairjoke.
